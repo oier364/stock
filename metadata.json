@@ -1,0 +1,5 @@
+{
+  "name": "StockMaster Pro",
+  "description": "Sistema integral de gestión de inventario con control de stock, historial de movimientos y alertas inteligentes.",
+  "requestFramePermissions": []
+}
